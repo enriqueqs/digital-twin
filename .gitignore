@@ -1,0 +1,64 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / JS (monorepo-friendly)
+node_modules/
+.npmrc
+.pnpm-store/
+
+# Build outputs
+.next/
+.out/
+.next-static/
+.next-cache/
+.vercel/
+.turbo/
+dist/
+build/
+coverage/
+
+# Env & secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python (if used in backend/)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.python-version
+.venv/
+venv/
+.envrc
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+
+# Misc
+*.log
+
+# Ignore local backups
+*.orig
+*.rej
+
+# Mac metadata
+.AppleDouble
+.LSOverride
+
+week2
+
