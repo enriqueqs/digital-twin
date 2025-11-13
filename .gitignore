@@ -62,3 +62,7 @@ coverage.xml
 
 week2
 memory
+data
+
+lambda-deployment.zip
+lambda-package/
